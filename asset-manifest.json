@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sai-portfolio/static/css/main.b66b59c3.css",
+    "main.js": "/sai-portfolio/static/js/main.c2cd4d23.js",
+    "static/js/453.c861d55a.chunk.js": "/sai-portfolio/static/js/453.c861d55a.chunk.js",
+    "index.html": "/sai-portfolio/index.html",
+    "main.b66b59c3.css.map": "/sai-portfolio/static/css/main.b66b59c3.css.map",
+    "main.c2cd4d23.js.map": "/sai-portfolio/static/js/main.c2cd4d23.js.map",
+    "453.c861d55a.chunk.js.map": "/sai-portfolio/static/js/453.c861d55a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66b59c3.css",
+    "static/js/main.c2cd4d23.js"
+  ]
+}
